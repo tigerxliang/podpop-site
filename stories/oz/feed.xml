@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>The Wonderful Wizard of Oz</title>
+    <description>L. Frank Baum’s The Wonderful Wizard of Oz, complete in twenty-four chapters. Narrated with an AI-generated voice. Source: L. Frank Baum, The Wonderful Wizard of Oz (1900).</description>
+    <language>en</language>
+    <link>https://podpop.ai</link>
+    <itunes:author>PodPop</itunes:author>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/stories/oz/cover.png"/>
+    <item>
+      <title>Chapter 1: The Cyclone</title>
+      <guid isPermaLink="false">oz/01-chapter-1-the-cyclone</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1154 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>392</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/01-chapter-1-the-cyclone.m4a" length="2033315" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/01-chapter-1-the-cyclone.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 2: The Council with the Munchkins</title>
+      <guid isPermaLink="false">oz/02-chapter-2-the-council-with-the-munchkins</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 2013 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>699</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/02-chapter-2-the-council-with-the-munchkins.m4a" length="3613904" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/02-chapter-2-the-council-with-the-munchkins.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 3: How Dorothy Saved the Scarecrow</title>
+      <guid isPermaLink="false">oz/03-chapter-3-how-dorothy-saved-the-scarecrow</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1971 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>673</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/03-chapter-3-how-dorothy-saved-the-scarecrow.m4a" length="3485341" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/03-chapter-3-how-dorothy-saved-the-scarecrow.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 4: The Road Through the Forest</title>
+      <guid isPermaLink="false">oz/04-chapter-4-the-road-through-the-forest</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1450 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>483</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/04-chapter-4-the-road-through-the-forest.m4a" length="2497279" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/04-chapter-4-the-road-through-the-forest.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 5: The Rescue of the Tin Woodman</title>
+      <guid isPermaLink="false">oz/05-chapter-5-the-rescue-of-the-tin-woodman</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 2070 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>671</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/05-chapter-5-the-rescue-of-the-tin-woodman.m4a" length="3476020" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/05-chapter-5-the-rescue-of-the-tin-woodman.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 6: The Cowardly Lion</title>
+      <guid isPermaLink="false">oz/06-chapter-6-the-cowardly-lion</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1509 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>520</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/06-chapter-6-the-cowardly-lion.m4a" length="2694300" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/06-chapter-6-the-cowardly-lion.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 7: The Journey to the Great Oz</title>
+      <guid isPermaLink="false">oz/07-chapter-7-the-journey-to-the-great-oz</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1815 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>603</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/07-chapter-7-the-journey-to-the-great-oz.m4a" length="3123362" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/07-chapter-7-the-journey-to-the-great-oz.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 8: The Deadly Poppy Field</title>
+      <guid isPermaLink="false">oz/08-chapter-8-the-deadly-poppy-field</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1939 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>644</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/08-chapter-8-the-deadly-poppy-field.m4a" length="3338047" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/08-chapter-8-the-deadly-poppy-field.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 9: The Queen of the Field Mice</title>
+      <guid isPermaLink="false">oz/09-chapter-9-the-queen-of-the-field-mice</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1399 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>472</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/09-chapter-9-the-queen-of-the-field-mice.m4a" length="2442656" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/09-chapter-9-the-queen-of-the-field-mice.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 10: The Guardian of the Gate</title>
+      <guid isPermaLink="false">oz/10-chapter-10-the-guardian-of-the-gate</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1966 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>657</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/10-chapter-10-the-guardian-of-the-gate.m4a" length="3396489" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/10-chapter-10-the-guardian-of-the-gate.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 11: The Wonderful City of Oz</title>
+      <guid isPermaLink="false">oz/11-chapter-11-the-wonderful-city-of-oz</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 3618 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>1205</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/11-chapter-11-the-wonderful-city-of-oz.m4a" length="6241101" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/11-chapter-11-the-wonderful-city-of-oz.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 12: The Search for the Wicked Witch</title>
+      <guid isPermaLink="false">oz/12-chapter-12-the-search-for-the-wicked-witch</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 3683 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>1215</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/12-chapter-12-the-search-for-the-wicked-witch.m4a" length="6293807" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/12-chapter-12-the-search-for-the-wicked-witch.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 13: The Rescue</title>
+      <guid isPermaLink="false">oz/13-chapter-13-the-rescue</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1201 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>398</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/13-chapter-13-the-rescue.m4a" length="2062766" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/13-chapter-13-the-rescue.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 14: The Winged Monkeys</title>
+      <guid isPermaLink="false">oz/14-chapter-14-the-winged-monkeys</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1896 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>642</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/14-chapter-14-the-winged-monkeys.m4a" length="3323513" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/14-chapter-14-the-winged-monkeys.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 15: The Discovery of Oz, the Terrible</title>
+      <guid isPermaLink="false">oz/15-chapter-15-the-discovery-of-oz-the-terrible</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 2770 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>937</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/15-chapter-15-the-discovery-of-oz-the-terrible.m4a" length="4850793" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/15-chapter-15-the-discovery-of-oz-the-terrible.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 16: The Magic Art of the Great Humbug</title>
+      <guid isPermaLink="false">oz/16-chapter-16-the-magic-art-of-the-great-humbug</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 939 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>323</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/16-chapter-16-the-magic-art-of-the-great-humbug.m4a" length="1670041" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/16-chapter-16-the-magic-art-of-the-great-humbug.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 17: How the Balloon Was Launched</title>
+      <guid isPermaLink="false">oz/17-chapter-17-how-the-balloon-was-launched</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1167 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>382</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/17-chapter-17-how-the-balloon-was-launched.m4a" length="1977444" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/17-chapter-17-how-the-balloon-was-launched.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 18: Away to the South</title>
+      <guid isPermaLink="false">oz/18-chapter-18-away-to-the-south</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1177 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>407</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/18-chapter-18-away-to-the-south.m4a" length="2109076" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/18-chapter-18-away-to-the-south.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 19: Attacked by the Fighting Trees</title>
+      <guid isPermaLink="false">oz/19-chapter-19-attacked-by-the-fighting-trees</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1027 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>343</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/19-chapter-19-attacked-by-the-fighting-trees.m4a" length="1774469" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/19-chapter-19-attacked-by-the-fighting-trees.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 20: The Dainty China Country</title>
+      <guid isPermaLink="false">oz/20-chapter-20-the-dainty-china-country</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1515 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>535</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/20-chapter-20-the-dainty-china-country.m4a" length="2771478" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/20-chapter-20-the-dainty-china-country.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 21: The Lion Becomes the King of Beasts</title>
+      <guid isPermaLink="false">oz/21-chapter-21-the-lion-becomes-the-king-of-beasts</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 909 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>312</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/21-chapter-21-the-lion-becomes-the-king-of-beasts.m4a" length="1620067" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/21-chapter-21-the-lion-becomes-the-king-of-beasts.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 22: The Country of the Quadlings</title>
+      <guid isPermaLink="false">oz/22-chapter-22-the-country-of-the-quadlings</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 947 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>322</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/22-chapter-22-the-country-of-the-quadlings.m4a" length="1666360" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/22-chapter-22-the-country-of-the-quadlings.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapters 23–24: Glinda The Good Witch Grants Dorothy’s Wish · Home Again</title>
+      <guid isPermaLink="false">oz/23-chapters-2324-glinda-the-good-witch-grants-dorothys-wish</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <description>L. Frank Baum · 1344 words · AI-generated voice</description>
+      <itunes:author>L. Frank Baum</itunes:author>
+      <itunes:duration>455</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/oz/23-chapters-2324-glinda-the-good-witch-grants-dorothys-wish.m4a" length="2354967" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/oz/23-chapters-2324-glinda-the-good-witch-grants-dorothys-wish.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>

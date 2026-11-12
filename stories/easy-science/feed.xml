@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Easy Science</title>
+    <description>Short answers to big questions about nature, in simple, everyday English. Narrated with an AI-generated voice. Source: Written in simple English by PodPop.</description>
+    <language>en</language>
+    <link>https://podpop.ai</link>
+    <itunes:author>PodPop</itunes:author>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/stories/easy-science/cover.png"/>
+    <item>
+      <title>Why Is the Sky Blue?</title>
+      <guid isPermaLink="false">easy-science/01-why-is-the-sky-blue</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 190 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>68</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-science/01-why-is-the-sky-blue.m4a" length="356481" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-science/01-why-is-the-sky-blue.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Why Do We Have Day and Night?</title>
+      <guid isPermaLink="false">easy-science/02-why-do-we-have-day-and-night</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 188 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>65</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-science/02-why-do-we-have-day-and-night.m4a" length="335358" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-science/02-why-do-we-have-day-and-night.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Where Does Rain Come From?</title>
+      <guid isPermaLink="false">easy-science/03-where-does-rain-come-from</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 195 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>70</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-science/03-where-does-rain-come-from.m4a" length="359516" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-science/03-where-does-rain-come-from.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Why Does the Moon Change Shape?</title>
+      <guid isPermaLink="false">easy-science/04-why-does-the-moon-change-shape</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 213 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>74</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-science/04-why-does-the-moon-change-shape.m4a" length="384860" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-science/04-why-does-the-moon-change-shape.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Why Do Leaves Change Color?</title>
+      <guid isPermaLink="false">easy-science/05-why-do-leaves-change-color</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 197 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>73</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-science/05-why-do-leaves-change-color.m4a" length="376778" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-science/05-why-do-leaves-change-color.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>How Do Bees Make Honey?</title>
+      <guid isPermaLink="false">easy-science/06-how-do-bees-make-honey</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 200 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>72</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-science/06-how-do-bees-make-honey.m4a" length="373200" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-science/06-how-do-bees-make-honey.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Why Is the Sea Salty?</title>
+      <guid isPermaLink="false">easy-science/07-why-is-the-sea-salty</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 203 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>73</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-science/07-why-is-the-sea-salty.m4a" length="377181" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-science/07-why-is-the-sea-salty.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>What Is a Rainbow?</title>
+      <guid isPermaLink="false">easy-science/08-what-is-a-rainbow</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 203 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>73</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-science/08-what-is-a-rainbow.m4a" length="380575" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-science/08-what-is-a-rainbow.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Why Do Birds Fly South?</title>
+      <guid isPermaLink="false">easy-science/09-why-do-birds-fly-south</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 209 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>74</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-science/09-why-do-birds-fly-south.m4a" length="386310" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-science/09-why-do-birds-fly-south.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Why Do We Need Sleep?</title>
+      <guid isPermaLink="false">easy-science/10-why-do-we-need-sleep</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 197 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>76</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-science/10-why-do-we-need-sleep.m4a" length="395146" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-science/10-why-do-we-need-sleep.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>

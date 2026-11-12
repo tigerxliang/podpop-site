@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Easy Folk Tales</title>
+    <description>Ten favourite folk tales retold in simple, everyday English. Narrated with an AI-generated voice. Source: Traditional folk tales retold in simple English by PodPop.</description>
+    <language>en</language>
+    <link>https://podpop.ai</link>
+    <itunes:author>PodPop</itunes:author>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/cover.png"/>
+    <item>
+      <title>The Three Little Pigs</title>
+      <guid isPermaLink="false">easy-folk-tales/01-the-three-little-pigs</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 306 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>99</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/01-the-three-little-pigs.m4a" length="512572" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/01-the-three-little-pigs.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Goldilocks and the Three Bears</title>
+      <guid isPermaLink="false">easy-folk-tales/02-goldilocks-and-the-three-bears</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 318 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>108</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/02-goldilocks-and-the-three-bears.m4a" length="557778" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/02-goldilocks-and-the-three-bears.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Little Red Riding Hood</title>
+      <guid isPermaLink="false">easy-folk-tales/03-little-red-riding-hood</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 315 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>100</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/03-little-red-riding-hood.m4a" length="520407" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/03-little-red-riding-hood.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Jack and the Beanstalk</title>
+      <guid isPermaLink="false">easy-folk-tales/04-jack-and-the-beanstalk</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 283 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>92</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/04-jack-and-the-beanstalk.m4a" length="478202" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/04-jack-and-the-beanstalk.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Ugly Duckling</title>
+      <guid isPermaLink="false">easy-folk-tales/05-the-ugly-duckling</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 309 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>99</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/05-the-ugly-duckling.m4a" length="512640" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/05-the-ugly-duckling.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Stone Soup</title>
+      <guid isPermaLink="false">easy-folk-tales/06-stone-soup</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 240 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>79</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/06-stone-soup.m4a" length="413555" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/06-stone-soup.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Elves and the Shoemaker</title>
+      <guid isPermaLink="false">easy-folk-tales/07-the-elves-and-the-shoemaker</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 300 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>95</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/07-the-elves-and-the-shoemaker.m4a" length="489809" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/07-the-elves-and-the-shoemaker.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Gingerbread Man</title>
+      <guid isPermaLink="false">easy-folk-tales/08-the-gingerbread-man</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 240 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>82</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/08-the-gingerbread-man.m4a" length="424755" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/08-the-gingerbread-man.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Tortoise Who Talked Too Much</title>
+      <guid isPermaLink="false">easy-folk-tales/09-the-tortoise-who-talked-too-much</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 229 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>76</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/09-the-tortoise-who-talked-too-much.m4a" length="399390" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/09-the-tortoise-who-talked-too-much.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Fisherman and His Wife</title>
+      <guid isPermaLink="false">easy-folk-tales/10-the-fisherman-and-his-wife</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 296 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>93</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/10-the-fisherman-and-his-wife.m4a" length="483209" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-folk-tales/10-the-fisherman-and-his-wife.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Grimms’ Fairy Tales</title>
+    <description>Fifteen favourite fairy tales collected by the Brothers Grimm, in the classic English translation. Narrated with an AI-generated voice. Source: Grimms’ Fairy Tales, translated by Edgar Taylor and Marian Edwardes.</description>
+    <language>en</language>
+    <link>https://podpop.ai</link>
+    <itunes:author>PodPop</itunes:author>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/stories/grimm/cover.png"/>
+    <item>
+      <title>Hansel and Gretel</title>
+      <guid isPermaLink="false">grimm/01-hansel-and-gretel</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 2936 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>958</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/01-hansel-and-gretel.m4a" length="4953315" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/01-hansel-and-gretel.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Rapunzel</title>
+      <guid isPermaLink="false">grimm/02-rapunzel</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 1406 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>443</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/02-rapunzel.m4a" length="2291251" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/02-rapunzel.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Cinderella</title>
+      <guid isPermaLink="false">grimm/03-cinderella</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 2568 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>816</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/03-cinderella.m4a" length="4213271" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/03-cinderella.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Snow White</title>
+      <guid isPermaLink="false">grimm/04-snow-white</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 2386 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>751</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/04-snow-white.m4a" length="3883306" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/04-snow-white.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Rumpelstiltskin</title>
+      <guid isPermaLink="false">grimm/05-rumpelstiltskin</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 1143 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>364</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/05-rumpelstiltskin.m4a" length="1881013" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/05-rumpelstiltskin.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Frog Prince</title>
+      <guid isPermaLink="false">grimm/06-the-frog-prince</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 1199 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>368</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/06-the-frog-prince.m4a" length="1904011" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/06-the-frog-prince.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Sleeping Beauty</title>
+      <guid isPermaLink="false">grimm/07-sleeping-beauty</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 1516 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>462</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/07-sleeping-beauty.m4a" length="2387396" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/07-sleeping-beauty.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Little Red Riding Hood</title>
+      <guid isPermaLink="false">grimm/08-little-red-riding-hood</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 1386 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>452</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/08-little-red-riding-hood.m4a" length="2339183" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/08-little-red-riding-hood.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Travelling Musicians</title>
+      <guid isPermaLink="false">grimm/09-the-travelling-musicians</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 1368 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>418</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/09-the-travelling-musicians.m4a" length="2158680" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/09-the-travelling-musicians.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Golden Goose</title>
+      <guid isPermaLink="false">grimm/10-the-golden-goose</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 1589 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>487</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/10-the-golden-goose.m4a" length="2517819" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/10-the-golden-goose.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Tom Thumb</title>
+      <guid isPermaLink="false">grimm/11-tom-thumb</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 2507 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>794</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/11-tom-thumb.m4a" length="4092065" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/11-tom-thumb.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Wolf and the Seven Little Kids</title>
+      <guid isPermaLink="false">grimm/12-the-wolf-and-the-seven-little-kids</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 1110 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>351</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/12-the-wolf-and-the-seven-little-kids.m4a" length="1816855" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/12-the-wolf-and-the-seven-little-kids.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Valiant Little Tailor</title>
+      <guid isPermaLink="false">grimm/13-the-valiant-little-tailor</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 3344 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>1053</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/13-the-valiant-little-tailor.m4a" length="5440048" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/13-the-valiant-little-tailor.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Twelve Dancing Princesses</title>
+      <guid isPermaLink="false">grimm/14-the-twelve-dancing-princesses</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 1609 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>483</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/14-the-twelve-dancing-princesses.m4a" length="2503304" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/14-the-twelve-dancing-princesses.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Snow-White and Rose-Red</title>
+      <guid isPermaLink="false">grimm/15-snow-white-and-rose-red</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>The Brothers Grimm · 2428 words · AI-generated voice</description>
+      <itunes:author>The Brothers Grimm</itunes:author>
+      <itunes:duration>773</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/grimm/15-snow-white-and-rose-red.m4a" length="3993410" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/grimm/15-snow-white-and-rose-red.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>

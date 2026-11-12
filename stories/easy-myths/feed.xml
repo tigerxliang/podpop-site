@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Easy Greek Myths</title>
+    <description>Eight famous Greek myths retold in simple, everyday English. Narrated with an AI-generated voice. Source: Greek myths retold in simple English by PodPop.</description>
+    <language>en</language>
+    <link>https://podpop.ai</link>
+    <itunes:author>PodPop</itunes:author>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/stories/easy-myths/cover.png"/>
+    <item>
+      <title>Pandora's Box</title>
+      <guid isPermaLink="false">easy-myths/01-pandoras-box</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 255 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>94</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/01-pandoras-box.m4a" length="485677" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/01-pandoras-box.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>King Midas and the Golden Touch</title>
+      <guid isPermaLink="false">easy-myths/02-king-midas-and-the-golden-touch</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 270 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>94</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/02-king-midas-and-the-golden-touch.m4a" length="487745" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/02-king-midas-and-the-golden-touch.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Icarus and His Wings</title>
+      <guid isPermaLink="false">easy-myths/03-icarus-and-his-wings</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 269 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>98</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/03-icarus-and-his-wings.m4a" length="508999" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/03-icarus-and-his-wings.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Echo and Narcissus</title>
+      <guid isPermaLink="false">easy-myths/04-echo-and-narcissus</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 285 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>101</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/04-echo-and-narcissus.m4a" length="517950" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/04-echo-and-narcissus.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Theseus and the Minotaur</title>
+      <guid isPermaLink="false">easy-myths/05-theseus-and-the-minotaur</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 267 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>92</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/05-theseus-and-the-minotaur.m4a" length="472021" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/05-theseus-and-the-minotaur.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Persephone and the Seasons</title>
+      <guid isPermaLink="false">easy-myths/06-persephone-and-the-seasons</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 268 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>100</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/06-persephone-and-the-seasons.m4a" length="517584" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/06-persephone-and-the-seasons.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Wooden Horse of Troy</title>
+      <guid isPermaLink="false">easy-myths/07-the-wooden-horse-of-troy</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 268 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>95</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/07-the-wooden-horse-of-troy.m4a" length="489197" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/07-the-wooden-horse-of-troy.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Orpheus and Eurydice</title>
+      <guid isPermaLink="false">easy-myths/08-orpheus-and-eurydice</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 279 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>98</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/08-orpheus-and-eurydice.m4a" length="507863" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-myths/08-orpheus-and-eurydice.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>
