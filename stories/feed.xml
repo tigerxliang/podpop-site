@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>PodPop Stories</title>
+    <description>Classic short stories retold at your level. AI-generated voice.</description>
+    <language>en</language>
+    <link>https://tigerxliang.github.io/podpop-site/stories</link>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/icon.png"/>
+    <item>
+      <title>The Gift of the Magi</title>
+      <guid isPermaLink="false">gift-of-the-magi-story</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>O. Henry · 2065 words · 178 words per minute · AI-generated voice</description>
+      <itunes:duration>696</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/gift-of-the-magi/story.m4a" length="5658299" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/gift-of-the-magi/story.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>
