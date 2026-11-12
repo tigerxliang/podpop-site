@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Aesop’s Fables</title>
+    <description>Sixty of Aesop’s fables in the classic 1912 translation by V. S. Vernon Jones, five short fables in each episode. Narrated with an AI-generated voice. Source: Aesop’s Fables, translated by V. S. Vernon Jones (1912).</description>
+    <language>en</language>
+    <link>https://podpop.ai</link>
+    <itunes:author>PodPop</itunes:author>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/stories/aesop/cover.png"/>
+    <item>
+      <title>The Fox and the Grapes and Other Fables</title>
+      <guid isPermaLink="false">aesop/01-the-fox-and-the-grapes-and-other-fables</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 609 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>211</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/01-the-fox-and-the-grapes-and-other-fables.m4a" length="1093667" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/01-the-fox-and-the-grapes-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Mice in Council and Other Fables</title>
+      <guid isPermaLink="false">aesop/02-the-mice-in-council-and-other-fables</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 574 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>193</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/02-the-mice-in-council-and-other-fables.m4a" length="996513" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/02-the-mice-in-council-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Wolf and the Lamb and Other Fables</title>
+      <guid isPermaLink="false">aesop/03-the-wolf-and-the-lamb-and-other-fables</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 640 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>231</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/03-the-wolf-and-the-lamb-and-other-fables.m4a" length="1196441" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/03-the-wolf-and-the-lamb-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Moon and her Mother and Other Fables</title>
+      <guid isPermaLink="false">aesop/04-the-moon-and-her-mother-and-other-fables</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 829 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>286</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/04-the-moon-and-her-mother-and-other-fables.m4a" length="1477401" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/04-the-moon-and-her-mother-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Boys and the Frogs and Other Fables</title>
+      <guid isPermaLink="false">aesop/05-the-boys-and-the-frogs-and-other-fables</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 762 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>273</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/05-the-boys-and-the-frogs-and-other-fables.m4a" length="1412354" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/05-the-boys-and-the-frogs-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Fox and the Stork and Other Fables</title>
+      <guid isPermaLink="false">aesop/06-the-fox-and-the-stork-and-other-fables</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 775 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>267</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/06-the-fox-and-the-stork-and-other-fables.m4a" length="1381572" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/06-the-fox-and-the-stork-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Fox and the Monkey and Other Fables</title>
+      <guid isPermaLink="false">aesop/07-the-fox-and-the-monkey-and-other-fables</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 734 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>260</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/07-the-fox-and-the-monkey-and-other-fables.m4a" length="1344092" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/07-the-fox-and-the-monkey-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Gnat and the Bull and Other Fables</title>
+      <guid isPermaLink="false">aesop/08-the-gnat-and-the-bull-and-other-fables</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 886 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>309</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/08-the-gnat-and-the-bull-and-other-fables.m4a" length="1602078" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/08-the-gnat-and-the-bull-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Oak and the Reeds and Other Fables</title>
+      <guid isPermaLink="false">aesop/09-the-oak-and-the-reeds-and-other-fables</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 760 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>258</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/09-the-oak-and-the-reeds-and-other-fables.m4a" length="1332984" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/09-the-oak-and-the-reeds-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Shepherd’s Boy and the Wolf and Other Fables</title>
+      <guid isPermaLink="false">aesop/10-the-shepherds-boy-and-the-wolf-and-other-fables</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 665 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>226</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/10-the-shepherds-boy-and-the-wolf-and-other-fables.m4a" length="1168812" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/10-the-shepherds-boy-and-the-wolf-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Ass and his Shadow and Other Fables</title>
+      <guid isPermaLink="false">aesop/11-the-ass-and-his-shadow-and-other-fables</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 736 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>250</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/11-the-ass-and-his-shadow-and-other-fables.m4a" length="1288426" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/11-the-ass-and-his-shadow-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Farmer and Fortune and Other Fables</title>
+      <guid isPermaLink="false">aesop/12-the-farmer-and-fortune-and-other-fables</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aesop · 647 words · AI-generated voice</description>
+      <itunes:author>Aesop</itunes:author>
+      <itunes:duration>227</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/aesop/12-the-farmer-and-fortune-and-other-fables.m4a" length="1176245" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/aesop/12-the-farmer-and-fortune-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>

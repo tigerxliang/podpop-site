@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Easy Fables</title>
+    <description>Thirty well-known fables retold in simple, everyday English. Five short fables in each episode. Narrated with an AI-generated voice. Source: Traditional fables retold in simple English by PodPop.</description>
+    <language>en</language>
+    <link>https://podpop.ai</link>
+    <itunes:author>PodPop</itunes:author>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/stories/easy-fables/cover.png"/>
+    <item>
+      <title>The Fox and the Grapes and Other Fables</title>
+      <guid isPermaLink="false">easy-fables/01-the-fox-and-the-grapes-and-other-fables</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 643 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>226</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/01-the-fox-and-the-grapes-and-other-fables.m4a" length="1163004" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/01-the-fox-and-the-grapes-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Ant and the Grasshopper and Other Fables</title>
+      <guid isPermaLink="false">easy-fables/02-the-ant-and-the-grasshopper-and-other-fables</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 642 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>225</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/02-the-ant-and-the-grasshopper-and-other-fables.m4a" length="1159994" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/02-the-ant-and-the-grasshopper-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Town Mouse and the Country Mouse and Other Fables</title>
+      <guid isPermaLink="false">easy-fables/03-the-town-mouse-and-the-country-mouse-and-other-fables</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 659 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>224</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/03-the-town-mouse-and-the-country-mouse-and-other-fables.m4a" length="1152444" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/03-the-town-mouse-and-the-country-mouse-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Fox and the Stork and Other Fables</title>
+      <guid isPermaLink="false">easy-fables/04-the-fox-and-the-stork-and-other-fables</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 626 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>221</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/04-the-fox-and-the-stork-and-other-fables.m4a" length="1139186" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/04-the-fox-and-the-stork-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Thirsty Pigeon and Other Fables</title>
+      <guid isPermaLink="false">easy-fables/05-the-thirsty-pigeon-and-other-fables</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 559 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>189</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/05-the-thirsty-pigeon-and-other-fables.m4a" length="974796" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/05-the-thirsty-pigeon-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Two Goats and Other Fables</title>
+      <guid isPermaLink="false">easy-fables/06-the-two-goats-and-other-fables</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Retold in simple English · 570 words · AI-generated voice</description>
+      <itunes:author>PodPop</itunes:author>
+      <itunes:duration>197</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/06-the-two-goats-and-other-fables.m4a" length="1016993" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/easy-fables/06-the-two-goats-and-other-fables.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>

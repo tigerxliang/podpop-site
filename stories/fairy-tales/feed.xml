@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Classic Fairy Tales</title>
+    <description>Fairy tales by Oscar Wilde and Hans Christian Andersen, read in full. Narrated with an AI-generated voice. Source: Oscar Wilde, The Happy Prince and Other Tales (1888); Andersen’s Fairy Tales.</description>
+    <language>en</language>
+    <link>https://podpop.ai</link>
+    <itunes:author>PodPop</itunes:author>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/cover.png"/>
+    <item>
+      <title>The Happy Prince</title>
+      <guid isPermaLink="false">fairy-tales/01-the-happy-prince</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Oscar Wilde · 3477 words · AI-generated voice</description>
+      <itunes:author>Oscar Wilde</itunes:author>
+      <itunes:duration>1199</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/01-the-happy-prince.m4a" length="6216545" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/01-the-happy-prince.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Selfish Giant</title>
+      <guid isPermaLink="false">fairy-tales/02-the-selfish-giant</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Oscar Wilde · 1658 words · AI-generated voice</description>
+      <itunes:author>Oscar Wilde</itunes:author>
+      <itunes:duration>544</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/02-the-selfish-giant.m4a" length="2815110" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/02-the-selfish-giant.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Emperor’s New Clothes</title>
+      <guid isPermaLink="false">fairy-tales/03-the-emperors-new-clothes</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hans Christian Andersen · 1877 words · AI-generated voice</description>
+      <itunes:author>Hans Christian Andersen</itunes:author>
+      <itunes:duration>657</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/03-the-emperors-new-clothes.m4a" length="3403459" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/03-the-emperors-new-clothes.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Little Match Girl</title>
+      <guid isPermaLink="false">fairy-tales/04-the-little-match-girl</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hans Christian Andersen · 1022 words · AI-generated voice</description>
+      <itunes:author>Hans Christian Andersen</itunes:author>
+      <itunes:duration>344</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/04-the-little-match-girl.m4a" length="1778289" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/04-the-little-match-girl.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Nightingale and the Rose</title>
+      <guid isPermaLink="false">fairy-tales/05-the-nightingale-and-the-rose</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Oscar Wilde · 2331 words · AI-generated voice</description>
+      <itunes:author>Oscar Wilde</itunes:author>
+      <itunes:duration>782</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/05-the-nightingale-and-the-rose.m4a" length="4048455" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/05-the-nightingale-and-the-rose.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Real Princess</title>
+      <guid isPermaLink="false">fairy-tales/06-the-real-princess</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hans Christian Andersen · 418 words · AI-generated voice</description>
+      <itunes:author>Hans Christian Andersen</itunes:author>
+      <itunes:duration>143</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/06-the-real-princess.m4a" length="739332" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/06-the-real-princess.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Swineherd</title>
+      <guid isPermaLink="false">fairy-tales/07-the-swineherd</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hans Christian Andersen · 1486 words · AI-generated voice</description>
+      <itunes:author>Hans Christian Andersen</itunes:author>
+      <itunes:duration>551</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/07-the-swineherd.m4a" length="2859531" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/07-the-swineherd.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Fir Tree</title>
+      <guid isPermaLink="false">fairy-tales/08-the-fir-tree</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hans Christian Andersen · 3210 words · AI-generated voice</description>
+      <itunes:author>Hans Christian Andersen</itunes:author>
+      <itunes:duration>1122</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/08-the-fir-tree.m4a" length="5813308" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/08-the-fir-tree.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Red Shoes</title>
+      <guid isPermaLink="false">fairy-tales/09-the-red-shoes</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hans Christian Andersen · 2240 words · AI-generated voice</description>
+      <itunes:author>Hans Christian Andersen</itunes:author>
+      <itunes:duration>748</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/09-the-red-shoes.m4a" length="3874697" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/09-the-red-shoes.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Devoted Friend</title>
+      <guid isPermaLink="false">fairy-tales/10-the-devoted-friend</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Oscar Wilde · 4335 words · AI-generated voice</description>
+      <itunes:author>Oscar Wilde</itunes:author>
+      <itunes:duration>1446</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/10-the-devoted-friend.m4a" length="7495137" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/10-the-devoted-friend.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Remarkable Rocket</title>
+      <guid isPermaLink="false">fairy-tales/11-the-remarkable-rocket</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Oscar Wilde · 4387 words · AI-generated voice</description>
+      <itunes:author>Oscar Wilde</itunes:author>
+      <itunes:duration>1581</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/11-the-remarkable-rocket.m4a" length="8196953" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/fairy-tales/11-the-remarkable-rocket.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>

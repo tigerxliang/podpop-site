@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Classic Short Stories</title>
+    <description>Famous short stories by O. Henry, Saki, Kate Chopin, Edgar Allan Poe, Katherine Mansfield, Jack London and others, read in full. Narrated with an AI-generated voice. Source: Public-domain short stories from Project Gutenberg.</description>
+    <language>en</language>
+    <link>https://podpop.ai</link>
+    <itunes:author>PodPop</itunes:author>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/stories/short-stories/cover.png"/>
+    <item>
+      <title>The Gift of the Magi</title>
+      <guid isPermaLink="false">short-stories/01-the-gift-of-the-magi</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>O. Henry · 2069 words · AI-generated voice</description>
+      <itunes:author>O. Henry</itunes:author>
+      <itunes:duration>740</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/01-the-gift-of-the-magi.m4a" length="3831236" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/01-the-gift-of-the-magi.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Open Window</title>
+      <guid isPermaLink="false">short-stories/02-the-open-window</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Saki · 1213 words · AI-generated voice</description>
+      <itunes:author>Saki</itunes:author>
+      <itunes:duration>428</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/02-the-open-window.m4a" length="2222869" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/02-the-open-window.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>After Twenty Years</title>
+      <guid isPermaLink="false">short-stories/03-after-twenty-years</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>O. Henry · 1267 words · AI-generated voice</description>
+      <itunes:author>O. Henry</itunes:author>
+      <itunes:duration>441</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/03-after-twenty-years.m4a" length="2286046" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/03-after-twenty-years.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Kiss</title>
+      <guid isPermaLink="false">short-stories/04-the-kiss</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Kate Chopin · 1019 words · AI-generated voice</description>
+      <itunes:author>Kate Chopin</itunes:author>
+      <itunes:duration>367</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/04-the-kiss.m4a" length="1903850" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/04-the-kiss.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Last Leaf</title>
+      <guid isPermaLink="false">short-stories/05-the-last-leaf</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>O. Henry · 2352 words · AI-generated voice</description>
+      <itunes:author>O. Henry</itunes:author>
+      <itunes:duration>848</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/05-the-last-leaf.m4a" length="4385811" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/05-the-last-leaf.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Tell-Tale Heart</title>
+      <guid isPermaLink="false">short-stories/06-the-tell-tale-heart</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Edgar Allan Poe · 2083 words · AI-generated voice</description>
+      <itunes:author>Edgar Allan Poe</itunes:author>
+      <itunes:duration>757</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/06-the-tell-tale-heart.m4a" length="3922793" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/06-the-tell-tale-heart.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Story-Teller</title>
+      <guid isPermaLink="false">short-stories/07-the-story-teller</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Saki · 1965 words · AI-generated voice</description>
+      <itunes:author>Saki</itunes:author>
+      <itunes:duration>682</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/07-the-story-teller.m4a" length="3536892" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/07-the-story-teller.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Monkey’s Paw</title>
+      <guid isPermaLink="false">short-stories/08-the-monkeys-paw</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <description>W. W. Jacobs · 3941 words · AI-generated voice</description>
+      <itunes:author>W. W. Jacobs</itunes:author>
+      <itunes:duration>1419</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/08-the-monkeys-paw.m4a" length="7350967" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/08-the-monkeys-paw.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Cop and the Anthem</title>
+      <guid isPermaLink="false">short-stories/09-the-cop-and-the-anthem</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>O. Henry · 2272 words · AI-generated voice</description>
+      <itunes:author>O. Henry</itunes:author>
+      <itunes:duration>851</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/09-the-cop-and-the-anthem.m4a" length="4405392" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/09-the-cop-and-the-anthem.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Désirée’s Baby</title>
+      <guid isPermaLink="false">short-stories/10-desirees-baby</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Kate Chopin · 2148 words · AI-generated voice</description>
+      <itunes:author>Kate Chopin</itunes:author>
+      <itunes:duration>776</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/10-desirees-baby.m4a" length="4017197" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/10-desirees-baby.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Ransom of Red Chief</title>
+      <guid isPermaLink="false">short-stories/11-the-ransom-of-red-chief</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <description>O. Henry · 4160 words · AI-generated voice</description>
+      <itunes:author>O. Henry</itunes:author>
+      <itunes:duration>1419</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/11-the-ransom-of-red-chief.m4a" length="7348315" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/11-the-ransom-of-red-chief.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Lumber Room</title>
+      <guid isPermaLink="false">short-stories/12-the-lumber-room</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Saki · 2199 words · AI-generated voice</description>
+      <itunes:author>Saki</itunes:author>
+      <itunes:duration>770</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/12-the-lumber-room.m4a" length="3990070" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/12-the-lumber-room.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Miss Brill</title>
+      <guid isPermaLink="false">short-stories/13-miss-brill</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Katherine Mansfield · 1934 words · AI-generated voice</description>
+      <itunes:author>Katherine Mansfield</itunes:author>
+      <itunes:duration>703</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/13-miss-brill.m4a" length="3634874" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/13-miss-brill.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>A Retrieved Reformation</title>
+      <guid isPermaLink="false">short-stories/14-a-retrieved-reformation</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <description>O. Henry · 2809 words · AI-generated voice</description>
+      <itunes:author>O. Henry</itunes:author>
+      <itunes:duration>1044</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/14-a-retrieved-reformation.m4a" length="5407883" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/14-a-retrieved-reformation.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Cask of Amontillado</title>
+      <guid isPermaLink="false">short-stories/15-the-cask-of-amontillado</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Edgar Allan Poe · 2314 words · AI-generated voice</description>
+      <itunes:author>Edgar Allan Poe</itunes:author>
+      <itunes:duration>879</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/15-the-cask-of-amontillado.m4a" length="4554180" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/15-the-cask-of-amontillado.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>An Occurrence at Owl Creek Bridge</title>
+      <guid isPermaLink="false">short-stories/16-an-occurrence-at-owl-creek-bridge</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Ambrose Bierce · 3737 words · AI-generated voice</description>
+      <itunes:author>Ambrose Bierce</itunes:author>
+      <itunes:duration>1370</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/16-an-occurrence-at-owl-creek-bridge.m4a" length="7102098" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/16-an-occurrence-at-owl-creek-bridge.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>A Pair of Silk Stockings</title>
+      <guid isPermaLink="false">short-stories/17-a-pair-of-silk-stockings</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Kate Chopin · 1892 words · AI-generated voice</description>
+      <itunes:author>Kate Chopin</itunes:author>
+      <itunes:duration>660</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/17-a-pair-of-silk-stockings.m4a" length="3417858" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/17-a-pair-of-silk-stockings.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Dusk</title>
+      <guid isPermaLink="false">short-stories/18-dusk</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Saki · 1705 words · AI-generated voice</description>
+      <itunes:author>Saki</itunes:author>
+      <itunes:duration>586</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/18-dusk.m4a" length="3036287" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/18-dusk.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Mammon and the Archer</title>
+      <guid isPermaLink="false">short-stories/19-mammon-and-the-archer</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+      <description>O. Henry · 2301 words · AI-generated voice</description>
+      <itunes:author>O. Henry</itunes:author>
+      <itunes:duration>825</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/19-mammon-and-the-archer.m4a" length="4271600" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/19-mammon-and-the-archer.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Black Cat</title>
+      <guid isPermaLink="false">short-stories/20-the-black-cat</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Edgar Allan Poe · 3855 words · AI-generated voice</description>
+      <itunes:author>Edgar Allan Poe</itunes:author>
+      <itunes:duration>1429</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/20-the-black-cat.m4a" length="7412994" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/20-the-black-cat.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>To Build a Fire</title>
+      <guid isPermaLink="false">short-stories/21-to-build-a-fire</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Jack London · 7088 words · AI-generated voice</description>
+      <itunes:author>Jack London</itunes:author>
+      <itunes:duration>2430</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/21-to-build-a-fire.m4a" length="12594451" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/21-to-build-a-fire.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>The Masque of the Red Death</title>
+      <guid isPermaLink="false">short-stories/22-the-masque-of-the-red-death</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Edgar Allan Poe · 2403 words · AI-generated voice</description>
+      <itunes:author>Edgar Allan Poe</itunes:author>
+      <itunes:duration>871</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/short-stories/22-the-masque-of-the-red-death.m4a" length="4522610" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/short-stories/22-the-masque-of-the-red-death.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>

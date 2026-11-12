@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Alice’s Adventures in Wonderland</title>
+    <description>Lewis Carroll’s Alice’s Adventures in Wonderland, complete in twelve chapters. Narrated with an AI-generated voice. Source: Lewis Carroll, Alice’s Adventures in Wonderland (1865).</description>
+    <language>en</language>
+    <link>https://podpop.ai</link>
+    <itunes:author>PodPop</itunes:author>
+    <itunes:image href="https://tigerxliang.github.io/podpop-site/stories/alice/cover.png"/>
+    <item>
+      <title>Chapter 1: Down the Rabbit-Hole</title>
+      <guid isPermaLink="false">alice/01-chapter-1-down-the-rabbit-hole</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 2153 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>759</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/01-chapter-1-down-the-rabbit-hole.m4a" length="3931158" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/01-chapter-1-down-the-rabbit-hole.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 2: The Pool of Tears</title>
+      <guid isPermaLink="false">alice/02-chapter-2-the-pool-of-tears</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 2106 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>777</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/02-chapter-2-the-pool-of-tears.m4a" length="4025214" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/02-chapter-2-the-pool-of-tears.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 3: A Caucus-Race and a Long Tale</title>
+      <guid isPermaLink="false">alice/03-chapter-3-a-caucus-race-and-a-long-tale</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 1709 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>666</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/03-chapter-3-a-caucus-race-and-a-long-tale.m4a" length="3438250" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/03-chapter-3-a-caucus-race-and-a-long-tale.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 4: The Rabbit Sends in a Little Bill</title>
+      <guid isPermaLink="false">alice/04-chapter-4-the-rabbit-sends-in-a-little-bill</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 2623 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>971</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/04-chapter-4-the-rabbit-sends-in-a-little-bill.m4a" length="5028058" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/04-chapter-4-the-rabbit-sends-in-a-little-bill.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 5: Advice from a Caterpillar</title>
+      <guid isPermaLink="false">alice/05-chapter-5-advice-from-a-caterpillar</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 2173 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>825</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/05-chapter-5-advice-from-a-caterpillar.m4a" length="4271792" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/05-chapter-5-advice-from-a-caterpillar.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 6: Pig and Pepper</title>
+      <guid isPermaLink="false">alice/06-chapter-6-pig-and-pepper</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 2600 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>968</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/06-chapter-6-pig-and-pepper.m4a" length="5006065" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/06-chapter-6-pig-and-pepper.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 7: A Mad Tea-Party</title>
+      <guid isPermaLink="false">alice/07-chapter-7-a-mad-tea-party</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 2294 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>903</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/07-chapter-7-a-mad-tea-party.m4a" length="4665821" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/07-chapter-7-a-mad-tea-party.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 8: The Queen’s Croquet-Ground</title>
+      <guid isPermaLink="false">alice/08-chapter-8-the-queens-croquet-ground</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 2494 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>950</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/08-chapter-8-the-queens-croquet-ground.m4a" length="4911810" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/08-chapter-8-the-queens-croquet-ground.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 9: The Mock Turtle’s Story</title>
+      <guid isPermaLink="false">alice/09-chapter-9-the-mock-turtles-story</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 2279 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>906</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/09-chapter-9-the-mock-turtles-story.m4a" length="4692089" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/09-chapter-9-the-mock-turtles-story.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 10: The Lobster Quadrille</title>
+      <guid isPermaLink="false">alice/10-chapter-10-the-lobster-quadrille</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 2027 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>838</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/10-chapter-10-the-lobster-quadrille.m4a" length="4329518" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/10-chapter-10-the-lobster-quadrille.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 11: Who Stole the Tarts?</title>
+      <guid isPermaLink="false">alice/11-chapter-11-who-stole-the-tarts</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 1885 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>722</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/11-chapter-11-who-stole-the-tarts.m4a" length="3738915" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/11-chapter-11-who-stole-the-tarts.vtt" type="text/vtt"/>
+    </item>
+    <item>
+      <title>Chapter 12: Alice’s Evidence</title>
+      <guid isPermaLink="false">alice/12-chapter-12-alices-evidence</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Lewis Carroll · 2110 words · AI-generated voice</description>
+      <itunes:author>Lewis Carroll</itunes:author>
+      <itunes:duration>805</itunes:duration>
+      <enclosure url="https://tigerxliang.github.io/podpop-site/stories/alice/12-chapter-12-alices-evidence.m4a" length="4168554" type="audio/mp4"/>
+      <podcast:transcript url="https://tigerxliang.github.io/podpop-site/stories/alice/12-chapter-12-alices-evidence.vtt" type="text/vtt"/>
+    </item>
+  </channel>
+</rss>
